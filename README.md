@@ -28,11 +28,13 @@ Five times more deadly than the flu, COVID-19 causes significant morbidity and m
 * ISIIM-FISABIO-RSNA COVID-19 Detection.pdf: ppt report of this project in pdf format
 * SIIM-FISABIO-RSNA COVID-19 Detection.pptx : ppt report of this project
 * Vgg16Info.txt : information of the final model
-* report.pdf: the report about this project in detail
+* SIIM-FISABIO-RSNA COVID-19 Detection report.pdf: the report about this project in detail
 
 #### Data:
 * train_image_level.csv.zip: the original study level dataframe form the offical website 
 * train_study_level.csv: the original image level dataframe form the offical website 
 * rescaled_image_info.csv: image information after rescaling the and changing the dcm format to png
+
+Note: since the image data set is too big, so I did not upload it. You can find it in the official website
 
 
