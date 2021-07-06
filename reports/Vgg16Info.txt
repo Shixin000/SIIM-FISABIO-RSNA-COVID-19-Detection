@@ -1,0 +1,7 @@
+{'modelFeatures': 'x-ray image', 'model name': 'pretrained Vgg16', 'model Hyperparameters': {'learning rate': 0.0005, 'batch size': 64, 'target image size': (224, 224)}, 'model Performance Metrics':                           Atypical Appearance  ...  Typical Appearance
+Atypical Appearance                  0.009091  ...            0.054545
+Indeterminate Appearance             0.002479  ...            0.095041
+Negative for Pneumonia               0.004132  ...            0.090083
+Typical Appearance                   0.007438  ...            0.416529
+
+[4 rows x 4 columns], 'Classification Report': '                          precision    recall  f1-score   support\n\n     Atypical Appearance       0.39      0.11      0.17       102\nIndeterminate Appearance       0.19      0.02      0.04       168\n  Negative for Pneumonia       0.63      0.65      0.64       353\n      Typical Appearance       0.63      0.86      0.73       587\n\n                accuracy                           0.62      1210\n               macro avg       0.46      0.41      0.40      1210\n            weighted avg       0.55      0.62      0.56      1210\n', 'ROC-AUC Score': 0.8332, 'well trained model weights': 'best_weights.hdf5'}
