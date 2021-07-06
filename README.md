@@ -35,6 +35,6 @@ Five times more deadly than the flu, COVID-19 causes significant morbidity and m
 * train_study_level.csv: the original image level dataframe form the offical website 
 * rescaled_image_info.csv: image information after rescaling the and changing the dcm format to png
 
-Note: since the image data set is too big, so I did not upload it. You can find it in the official website
+Note: since the image data set is too big, I did not upload it. You can find it in the official website.
 
 
